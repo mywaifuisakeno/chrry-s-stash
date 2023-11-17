@@ -4,5 +4,16 @@
   "artist": "Shinozuka Yuuji",
   "author": "Shinozuka Yuuji",
   "cover": "https://cdn.discordapp.com/attachments/421755325847175196/1174862105942446150/Wife_Life_Jacket_png_x1000.png?ex=65692299&is=6556ad99&hm=d648fb9c9a8a53b2bf4e506f1101ec20bc99970dd5af6d1ed2027ec3c070f064&",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "One Time Gal",
+      "volume": "0",
+      "last_updated": "1700192737",
+      "groups": {
+        "": [
+          "https://imgur.com/a/URGnN9N"
+        ]
+      }
+    }
+  }
 }
